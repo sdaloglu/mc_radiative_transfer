@@ -38,7 +38,7 @@ Ensure these libraries are installed before running the notebook.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/radiative_transfer.git
+   git clone https://github.com/sdaloglu/mc_radiative_transfer.git
    ```
 2.  Navigate to the project folder:
     ```bash
